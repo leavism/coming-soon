@@ -91,7 +91,7 @@ body {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.github-link {
+.github-text {
 	color:rgba(241, 240, 238, 1);
 	width:112px;
 	height:30px;
@@ -134,7 +134,7 @@ body {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.resume-link { 
+.resume-text { 
 	color:rgba(255, 255, 255, 1);
 	width:125px;
 	height:30px;
